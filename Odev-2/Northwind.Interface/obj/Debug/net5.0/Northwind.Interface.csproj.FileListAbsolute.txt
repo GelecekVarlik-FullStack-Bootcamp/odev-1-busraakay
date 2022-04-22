@@ -1,0 +1,12 @@
+C:\Users\busra\source\repos\GelecekVarlik\Northwind.Dal\Northwind.Interface\bin\Debug\net5.0\Northwind.Interface.deps.json
+C:\Users\busra\source\repos\GelecekVarlik\Northwind.Dal\Northwind.Interface\bin\Debug\net5.0\Northwind.Interface.dll
+C:\Users\busra\source\repos\GelecekVarlik\Northwind.Dal\Northwind.Interface\bin\Debug\net5.0\ref\Northwind.Interface.dll
+C:\Users\busra\source\repos\GelecekVarlik\Northwind.Dal\Northwind.Interface\bin\Debug\net5.0\Northwind.Interface.pdb
+C:\Users\busra\source\repos\GelecekVarlik\Northwind.Dal\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.csproj.AssemblyReference.cache
+C:\Users\busra\source\repos\GelecekVarlik\Northwind.Dal\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\source\repos\GelecekVarlik\Northwind.Dal\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.AssemblyInfoInputs.cache
+C:\Users\busra\source\repos\GelecekVarlik\Northwind.Dal\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.AssemblyInfo.cs
+C:\Users\busra\source\repos\GelecekVarlik\Northwind.Dal\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\GelecekVarlik\Northwind.Dal\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.dll
+C:\Users\busra\source\repos\GelecekVarlik\Northwind.Dal\Northwind.Interface\obj\Debug\net5.0\ref\Northwind.Interface.dll
+C:\Users\busra\source\repos\GelecekVarlik\Northwind.Dal\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.pdb

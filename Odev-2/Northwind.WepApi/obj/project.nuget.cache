@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3VRwQnb45OscOe1HtLcRffRB9rw2vaB/tmIC6SxlQmiygDI6bMdyhV7hwUWSyKyv+UOflf4eTVKg0vuHc5b1XQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\busra\\Downloads\\BusraAkay_2.Hafta-main\\BusraAkay_2.Hafta-main\\Northwind.WepApi\\Northwind.WepApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\busra\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\busra\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\busra\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\busra\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\busra\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\busra\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
